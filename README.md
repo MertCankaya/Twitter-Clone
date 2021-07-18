@@ -1,5 +1,5 @@
 # Twitter Clone with ReactJS
-You can tweet in this app.
+You can send a simple tweet in this app.
 
 ## Twitter Clone Demo Link
 <a href="https://twitter-clone-1bd6b.web.app/">click me</a> for demo.
@@ -11,3 +11,4 @@ You can tweet in this app.
 
 ## Author
 Mert Çankaya
+
